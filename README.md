@@ -1,4 +1,4 @@
-# Integrate NestJS with Zeit Now
+# Deploying NestJS to Zeit Now
 
 > Deploy your NestJS Application to the cloud effortlessly with Zeit Now
 
