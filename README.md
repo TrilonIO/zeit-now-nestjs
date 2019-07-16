@@ -2,6 +2,8 @@
 
 > Deploy your NestJS Application to the cloud effortlessly with Zeit Now
 
+### Live Now deployment [here](https://nestjs-zeit.now.sh/)
+
 ---
 
 <p align="center">
