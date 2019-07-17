@@ -2,6 +2,10 @@
 
 > Deploy your NestJS Application to the cloud effortlessly with Zeit Now
 
+Full article can be found here: [https://trilon.io/blog/deploying-nestjs-to-zeit-now](https://trilon.io/blog/deploying-nestjs-to-zeit-now)
+
+---
+
 ### Live Now deployment [here](https://nestjs-zeit.now.sh/)
 
 ---
